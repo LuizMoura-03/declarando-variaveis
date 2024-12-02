@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         String nome = "Luiz Fernando";
-        int idade = 30;
-        double altura = 1.75;
+        int idade = 36;
+        double altura = 1.82;
         boolean matriculado = true;
 
         System.out.println("Dados pessoais :");
